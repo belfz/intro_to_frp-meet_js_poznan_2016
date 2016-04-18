@@ -6,6 +6,6 @@ On March 10th, 2016 I gave a speech on meet.js Poznań (a periodic JavaScript en
 2. [start-stop-reset counter](https://codepen.io/belfz/pen/WwrBej?editors=1111)
 3. [debounce on text input](https://codepen.io/belfz/pen/GZKQZP)
 4. [cold observable](https://codepen.io/belfz/pen/NNPrgr) vs [hot promise](https://codepen.io/belfz/pen/eZmzEy)
-5. [take until - be sue to click few times with LMB and then click RMB once](https://codepen.io/belfz/pen/YqXqpQ)
-6. [observavble retry](https://codepen.io/belfz/pen/jqNZpM)
+5. [take until - be sure to click few times with LMB and then click RMB once](https://codepen.io/belfz/pen/YqXqpQ)
+6. [observable retry](https://codepen.io/belfz/pen/jqNZpM)
 7. [extra - drag around with observables (kefir.js)](https://codepen.io/belfz/pen/BKwQGm)
